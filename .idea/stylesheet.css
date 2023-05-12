@@ -1,0 +1,92 @@
+nav {
+    height: 60px;
+}
+
+img {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+nav>a:first-child {
+    margin-right: 0;
+}
+
+nav:nth-child(2) {
+    height: 30px;
+}
+
+.breadcrumb {
+    height: 10px;
+}
+
+.item_table_header {
+    background-color: lightseagreen;
+}
+
+body div div:nth-child(2) {
+    overflow-y: auto;
+}
+
+div h1 img {
+    width: 40px;
+}
+
+.class-header {
+    background-color: lightseagreen;
+}
+
+.customer-search-header {
+    background-color: #52a80c;
+}
+
+.customer-table-headrer {
+    background-color: #52a80c;
+}
+
+.btn-add {
+    background-color: #0fa80c;
+}
+
+.btn-update {
+    background-color: #eb7e02;
+}
+
+.btn-delete {
+    background-color: #990615;
+}
+
+.close {
+    background-color: #a6424c;
+}
+
+ul>li>a>img {
+    width: 20px;
+    margin-right: 5px;
+}
+
+.home-menu {
+    width: 100px;
+    height: 100px;
+}
+
+figure {
+    width: 400px;
+    height: 400px;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.card-image {
+    width: 300px;
+    justify-content: center;
+    align-content: center;
+}
