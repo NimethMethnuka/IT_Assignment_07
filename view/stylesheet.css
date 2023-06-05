@@ -39,7 +39,7 @@ div h1 img {
     background-color: #52a80c;
 }
 
-.customer-table-headrer {
+.customer-table-header {
     background-color: #52a80c;
 }
 
@@ -47,11 +47,23 @@ div h1 img {
     background-color: #0fa80c;
 }
 
+.btn-add:hover {
+    background-color: #0fa80c;
+}
+
 .btn-update {
     background-color: #eb7e02;
 }
 
+.btn-update:hover {
+    background-color: #eb7e02;
+}
+
 .btn-delete {
+    background-color: #990615;
+}
+
+.btn-delete:hover {
     background-color: #990615;
 }
 
@@ -90,3 +102,13 @@ a:active { text-decoration: none; }
     justify-content: center;
     align-content: center;
 }
+
+#item-table tr:hover {
+    background-color: #0b5c5e;
+    color: white;
+}
+
+.selected-row {
+    background-color: #74c40c;
+}
+
